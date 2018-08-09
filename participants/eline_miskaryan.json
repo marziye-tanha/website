@@ -1,0 +1,15 @@
+{
+  "name": "Eline",
+  "company": "",
+  "when": {
+    "friday": true,
+    "friday_party": false,
+    "saturday": true
+  },
+  "tags": ["any", "tag", "you like"],
+  "dietary_requirements": "vegetarian | vegan | etc.",
+  "what_is_my_connection_to_javascript": "Say something about you and JS ...",
+  "what_can_i_contribute": "How can you contribute to the event? If you don't know yet, feel free to give it some thought ...",
+  "tshirt": "W-M
+}
+    
